@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KyleROlson
+- 👀 I’m interested in UI Design and Web App Technology
+- 🌱 I’m currently learning C++ and Android App Development in Java
