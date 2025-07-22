@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @KyleROlson
+- 🎓 Graduated in 2023 with Computer Science Degree
 - 👀 I’m interested in UI Design and Web App Technology
-- 🌱 I’m currently learning C++ and Android App Development in Java
+- 🌱 I’m currently learning PowerShell scripting
